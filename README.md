@@ -2,12 +2,12 @@
 > [!IMPORTANT] 
 > There are a few pieces of software you should have installed and set up in order to follow along. Namely:
 > - Git
-> - [Homebrew](/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)") (MacOS only)
+> - [Homebrew](https://brew.sh/) (MacOS)
 
 ## Color Schemes
-For rolling your own color scheme, see [terminal.sexy](terminal.sexy). Be sure to export your creation to the right format for your choice of terminal emulator!
+For rolling your own color scheme, see [terminal.sexy](https://terminal.sexy/). Be sure to export your creation to the right format for your choice of terminal emulator!
 
-If you'd rather have this handled automatically, [https://gogh-co.github.io/Gogh/](Gogh) provides an easy CLI interface for selecting colorschemes. Try it with the following command:
+If you'd rather have this handled automatically, [Gogh](https://gogh-co.github.io/Gogh/) provides an easy CLI interface for selecting colorschemes. Try it with the following command:
 ```shell
 # MacOS
 bash -c  "$(curl -sLo- https://git.io/vQgMr)"
