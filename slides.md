@@ -8,6 +8,15 @@ options:
     end_slide_shorthand: true
 ---
 
+Follow Along!
+===
+Visit the companion repo for this presentation and workshop to follow along!
+
+- [](https://tinyurl.com/pimp-my-term-2025)
+- [](https://github.com/sharkbyte79/pimp-my-terminal-2025) 
+
+---
+
 Disclaimer
 ===
 Much of the functionality showcased here doesn't strictly apply for Windows users.
