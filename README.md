@@ -121,3 +121,11 @@ These plugins are included to enhance tmux's out-of-the-box functionality:
     - Add the following to your `.tmux.conf` file to enable this automatic session restoration: `set -g @continuum-restore 'on'`
 
 Upon opening tmux with `tmux`, you may need to press `<Leader> I` to fetch and install the new plugins.
+
+## Aliases
+To create an alias, you should a string like then following to your `.zshrc`:
+```shell
+alias name=cmd
+```
+
+where `name` is the alias and `cmd` is the command it should be short for.
