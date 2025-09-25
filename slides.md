@@ -15,6 +15,8 @@ Visit the companion repo for this presentation and workshop to follow along!
 - [](https://tinyurl.com/pimp-my-term-2025)
 - [](https://github.com/sharkbyte79/pimp-my-terminal-2025) 
 
+![image:width:80%](resources/builds.png)
+
 ---
 
 Disclaimer
