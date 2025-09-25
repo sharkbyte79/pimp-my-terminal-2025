@@ -98,7 +98,7 @@ The default leader is `<Ctrl>-b`. For an easier reach across the keyboard, the s
 Other important binds to remember:
 - `<Leader> c` (new window)
 - `<Leader> -` (horizontal split pane)
-- `<Leader> |` (vertical split pane)
+- `<Leader> \` (vertical split pane)
 - `<Leader> <Num>` (jump to window #<Num>)
 - `<Leader> <(Up/Down/Left/Right)-Arrow>` (navigate to pane in some direction)
 - `<Leader> r` (reload tmux configuration)
