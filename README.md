@@ -6,6 +6,19 @@
 >   - If Zsh is not already your default, run `chsh -s /bin/zsh` after installation to set it as your default
 > - [Homebrew](https://brew.sh/) (MacOS)
 
+# Picking Your Terminal
+Every terminal emulator has something to offer, but here are some great options for your consideration.
+- [iTerm2](https://iterm2.com/)
+- [Alacritty](https://alacritty.org/)
+- [kitty](https://sw.kovidgoyal.net/kitty/)
+- [Ghostty](https://ghostty.org/)
+- [WezTerm](https://wezterm.org/)
+
+## Fonts Fonts Fonts
+[Nerd Fonts](https://www.nerdfonts.com/font-downloads) package popular programming fonts with all of the glyphs and icons you could want. 
+
+How to install these fonts depends on your OS.
+
 ## Color Schemes
 For rolling your own color scheme, see [terminal.sexy](https://terminal.sexy/). Be sure to export your creation to the right format for your choice of terminal emulator!
 
