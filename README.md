@@ -78,10 +78,7 @@ And add this string to the **bottom** of `.zshrc`:
 eval "$(starship init zsh)"
 ```
 
-
-
-
-
+Restart the terminal or reload your shell configuration with `source ~/.zshrc` to see the changes.
 
 ## tmux
 tmux should be _easily_ installable via your package manager.
@@ -104,6 +101,7 @@ Other important binds to remember:
 - `<Leader> |` (vertical split pane)
 - `<Leader> <Num>` (jump to window #<Num>)
 - `<Leader> <(Up/Down/Left/Right)-Arrow>` (navigate to pane in some direction)
+- `<Leader> r` (reload tmux configuration)
 - `<Leader> ,` (rename current window)
 - `<Leader> !` (move current pane to its own window)
 
